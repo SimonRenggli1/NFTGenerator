@@ -1,4 +1,10 @@
 # NFTGenerator
+# Table of Contents
+1. [Introduction](##Introduction)
+2. [Features](##Features)
+3. [Reflection](##Reflection)
+4. [Credits](##Credits)
+
 ## Introduction 
 - An NFTGenerator to generate NFTs and send them to nft.storage
 - First you have to download [samila](https://github.com/sepandhaghighi/samila)
