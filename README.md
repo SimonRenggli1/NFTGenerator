@@ -6,8 +6,10 @@
 ![image](https://user-images.githubusercontent.com/96227533/146332099-e69aa974-5a64-40fd-9899-ea390efb32de.png)
 - Extract the samila zip
 - Open a CMD with root and cd into the folder you just extractet
-- Run ``` pip install -r requirements.txt or pip3 install -r requirements.txt ``` (Need root access)
-- Run ``` python3 setup.py install or python setup.py install ``` (Need root access)
+- ![image](https://user-images.githubusercontent.com/96227533/146335024-6a704994-ab9c-4603-bcf9-b6f0b4e1f1c6.png)
+
+- Run ``` pip install -r requirements.txt ``` or ``` pip3 install -r requirements.txt ``` (Need root access)
+- Run ``` python3 setup.py install ``` or ``` python setup.py install ``` (Need root access)
 - Run ``` pip install samila==0.3 or pip3 install samila==0.3 ``` (Need root access)
 - Run ``` easy_install --upgrade samila``` (Need root access)
 ### Features
