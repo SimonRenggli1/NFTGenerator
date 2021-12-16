@@ -1,5 +1,5 @@
 # NFTGenerator
-# Table of Contents
+## Table of Contents
 1. [Introduction](##Introduction)
 2. [Features](##Features)
 3. [Reflection](##Reflection)
