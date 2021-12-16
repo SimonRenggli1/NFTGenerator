@@ -1,13 +1,13 @@
 # NFTGenerator
 ## Table of Contents
-- [## Overview](##Overview)
-- [Installation](## Installation)
-- [Introduction](## Introduction)
-- [Features](## Features)
-- [Features](## Features)
-- [Reflection](## Reflection)
-- [Issues & bug reports](##Issues & bug reports)
-- [Show your support](## Show your support)
+- [Overview](##Overview)
+- [Installation](##Installation)
+- [Introduction](##Introduction)
+- [Features](##Features)
+- [Features](##Features)
+- [Reflection](##Reflection)
+- [Issues & bug reports](##Issues-&-bug-reports)
+- [Show your support](##Show-your-support)
 - [Credits](##Credits)
 
 ## Overview
