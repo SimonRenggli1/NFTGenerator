@@ -12,15 +12,15 @@
 - Run ``` python3 setup.py install ``` or ``` python setup.py install ``` (Need root access)
 - Run ``` pip install samila==0.3 or pip3 install samila==0.3 ``` (Need root access)
 - Run ``` easy_install --upgrade samila``` (Need root access)
-### Features
+## Features
 -  You can use your own API
 -  Your NFT will automatically be uploaded to your nft.storage inventory.
 -  Every *VALID_COLOR* is supportet
 
-#### Reflection
+## Reflection
 - I have learned how to create python scripts
 - I have also learned how python can communicate with other software and websites.
 - The use of 3.party software to generate
 
-##### Credits
+## Credits
 - Credits to [sepandhaghighi](https://github.com/sepandhaghighi) who is the creator of samila
