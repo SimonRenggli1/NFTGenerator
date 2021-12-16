@@ -1,14 +1,14 @@
 # NFTGenerator
 ## Table of Contents
-- [Overview](##Overview)
-- [Installation](##Installation)
-- [Introduction](##Introduction)
-- [Features](##Features)
-- [Features](##Features)
-- [Reflection](##Reflection)
-- [Issues & bug reports](##Issues-&-bug-reports)
-- [Show your support](##Show-your-support)
-- [Credits](##Credits)
+- [Overview](#Overview)
+- [Installation](#Installation)
+- [Introduction](#Introduction)
+- [Features](#Features)
+- [Features](#Features)
+- [Reflection](#Reflection)
+- [Issues & bug reports](#Issues-&-bug-reports)
+- [Show your support](#Show-your-support)
+- [Credits](#Credits)
 
 ## Overview
 The NFTGenerator is a NFT generator written in Python with the help of Samila. With The NFTGenerator the NFTs you Created will be sent to your nft.storage storage. The API Key is changeable in the Code
