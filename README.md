@@ -1,4 +1,12 @@
-# NFTGenerator
+<div align="center">
+<img src="https://user-images.githubusercontent.com/96227533/146386911-40a9be20-690a-40df-834b-66d56a187cd3.png" width=400 height=400>
+<br/>
+<h1>NFTGenerator</h1>
+<br/>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/built%20with-Python3-green.svg" alt="built with Python3" /></a>
+</div>
+
+----------
 ## Table of Contents
 - [Overview](#Overview)
 - [Installation](#Installation)
