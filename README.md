@@ -50,7 +50,7 @@ The NFTGenerator is a NFT generator written in Python with the help of Samila. W
 ## Reflection
 - I have learned how to create python scripts
 - I have also learned how python can communicate with other software and websites.
-- The use of 3.party software to generate
+- The use of 3.party software to generate awesome art
 
 ## Issues & bug reports
 Just fill an issue and describe it. We'll check it ASAP!
